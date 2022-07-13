@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ddnsname="<Your DynamicIP FQDN"
+ddnsname="<Your DynamicIP FQDN>"
 
 #check if firewall update installed
 synofwpath=$(which synofirewall)
